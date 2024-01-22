@@ -18,7 +18,6 @@ To explore the solutions, documentation, and resources:
 
   ~~~
 git clone https://github.com/dhanashripatil22/TechnoHack-Internship
-
   ~~~
 
 2) Navigate to specific task folders to access the solutions or documentation.
